@@ -2,7 +2,7 @@
 
 ## A Pre-Render Bender?
 
-YouTube Video: 
+YouTube Video: https://youtu.be/7I3pbXFCyfM
 
 BlazorPuzzle Home Page: https://blazorpuzzle.com
 
